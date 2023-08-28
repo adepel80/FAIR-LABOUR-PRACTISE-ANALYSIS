@@ -2,7 +2,7 @@ ANALYSIS ON FAIR-LABOUR-PRACTISE
 
 OVERVIEW
 
-This repository contains an analysis of fair labor practices within various industries and organizations. The goal of this analysis is to assess the extent to which companies uphold fair labor standards, promote employee well-being, and adhere to ethical employment practices. The findings presented here are based on publicly available data and research, aiming to shed light on the current state of labor practices and encourage informed discussions on this crucial topic.
+This repository contains an analysis of fair labor practices within an organization. The goal of this analysis is to assess the extent to which companies uphold fair labor standards, promote employee well-being, and adhere to ethical employment practices. The findings presented here are based on publicly available data and research, aiming to shed light on the current state of labor practices and encourage informed discussions on this crucial topic.
 
 Table of Contents
 Introduction
